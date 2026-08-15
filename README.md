@@ -2,10 +2,6 @@
 
 > Enterprise-grade full-stack scaffolding for Angular + Spring Boot applications
 
-[![npm version](https://img.shields.io/npm/v/jangular-cli.svg)](https://www.npmjs.com/package/jangular-cli)
-[![npm downloads](https://img.shields.io/npm/dm/jangular-cli.svg)](https://www.npmjs.com/package/jangular-cli)
-[![license](https://img.shields.io/npm/l/jangular-cli.svg)](https://github.com/nathangtg/jangular-cli/blob/master/LICENSE.txt)
-
 Rapidly bootstrap production-ready full-stack applications with Angular 17+ frontend and Spring Boot 3 (Java 21) backend. Includes JWT authentication, multi-database support, Docker integration, and enterprise security out of the box.
 
 ## Features
